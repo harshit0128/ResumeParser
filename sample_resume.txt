@@ -1,0 +1,15 @@
+ Harshit Raj
+btwitsharsh955@gmail.com
+9798350129
+I am a dedicated and enthusiastic individual with knowledge in Python, Java, and SQL. I have worked on basic chatbot projects and resume parsers. I am also familiar with MS Excel and basic web development.
+
+EDUCATION
+B.A spanish  - The English and foreign language  University (2023–2027)
+
+SKILLS
+Python, Java, SQL, Excel, HTML
+
+EXPERIENCE
+Intern - CodEc Technologies
+Worked on beginner Python projects like sentiment analysis and resume extraction tools.
+
